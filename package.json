@@ -1,0 +1,22 @@
+{
+  "name": "  web-development-interview-question",
+  "version": "1.0.0",
+  "description": "前端开发面试题大收集",
+  "scripts": {
+    "start": "docsify serve ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ /  Web-Development-Interview-Question.git"
+  },
+  "author": "  <padding4me@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ /  Web-Development-Interview-Question/issues"
+  },
+  "homepage": "https://github.com/ /  Web-Development-Interview-Question#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "docsify-cli": "^4.1.11"
+  }
+}
